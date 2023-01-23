@@ -14,3 +14,4 @@ Learn how people use data to answer questions, and find your own insights from a
 
 #### Project 1: Interpret a Data Visualization
 >In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
+For more details, check the **[Project 1 Instruction](https://github.com/Hishamdmacaraya/NanoDegree-Business-Analytics/new/main/Project-1-Data-Visualization-Interpretation)**
