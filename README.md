@@ -8,7 +8,7 @@ The Udacity's **[Business Analytics NanoDegree program](https://www.udacity.com/
 
 
 ## Program Curriculum
-For more details regarding the program, please check the [Syllabus.](Business-Analytics-Nanodegree-Program-Syllabus-2.0.pdf)
+For more details regarding the program, please check the **[Syllabus.](Business-Analytics-Nanodegree-Program-Syllabus-2.0.pdf)**
 
 
 
@@ -22,7 +22,7 @@ In this project, you’ll explore an interactive data dashboard to uncover insig
 
 
 #### Project Description
-A large part of working with data is being able to interpret data visualizations and explain your insights to others. To give you some practice with this, we’ve selected a few Tableau dashboards for you to explore. The links are below, under "Choose from these Dashboards." Choose one of these dashboards, whichever one interests you the most, and find three insights in the visualizations. For each insight, provide a static image that shares what you found. Write a short report explaining each observation and how you found the information to reach your conclusion from the dashboard. Altogether (including images), your report should be 1-2 pages. **[Rubic](https://review.udacity.com/#!/rubrics/1063/view)
+A large part of working with data is being able to interpret data visualizations and explain your insights to others. To give you some practice with this, we’ve selected a few Tableau dashboards for you to explore. The links are below, under "Choose from these Dashboards." Choose one of these dashboards, whichever one interests you the most, and find three insights in the visualizations. For each insight, provide a static image that shares what you found. Write a short report explaining each observation and how you found the information to reach your conclusion from the dashboard. Altogether (including images), your report should be 1-2 pages. **[Click here for Rubic.](https://review.udacity.com/#!/rubrics/1063/view)**
 
 
 #### Project 1 Submission:
@@ -45,11 +45,10 @@ Learn how to use statistics and visuals to find and communicate insights. Develo
 
 
 #### Project Description
-
+**[Click here for Rubic.]()**
 
 #### Project 2: Interpret a Data Visualization
-In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset. **[Project 2 Instruction.]()**
-
+In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset. 
 
 #### Project 2 Submission:
 
@@ -58,13 +57,24 @@ In this project, you'll use statistics and spreadsheet programs like Excel to an
 >**[]()**
 
 >**[Data Source]()**
+
+
+#### Project Reviwer's Comment:
+
+
 
 
 ### III. SQL for Data Analysis
 Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases.
 
+
 #### Project 2: Interpret a Data Visualization
->In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.**[Project 2 Instruction.]()**
+In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
+
+
+#### Project Description
+**[Click here for Rubic.]()**
+
 
 #### Project 2 Submission:
 
@@ -73,6 +83,11 @@ Learn to use Structured Query Language (SQL) to extract and analyze data stored 
 >**[]()**
 
 >**[Data Source]()**
+
+
+#### Project Reviwer's Comment:
+
+
 
 
 ### IV. Data Visualization
@@ -89,3 +104,5 @@ Learn to apply design and visualization principles to create impactful data visu
 
 >**[Data Source]()**
 
+
+#### Project Reviwer's Comment:
