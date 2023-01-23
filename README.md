@@ -17,7 +17,8 @@ Learn how people use data to answer questions, and find your own insights from a
  
 #### Project 1 Submission:
 
-![link](https://github.com/Hishamdmacaraya/NanoDegree-Business-Analytics/blob/main/Project-1-Data-Visualization-Interpretation/Project%201%20Image.png)
+![Project 1 Image](https://user-images.githubusercontent.com/118230471/213973443-f64bb0cc-6274-442d-a930-3951d091a895.png)
+
 
 >**[Data Interpretation of LinkedIn Top 10 Skills of 2016](https://github.com/Hishamdmacaraya/NanoDegree-Business-Analytics/blob/main/Project-1-Data-Visualization-Interpretation/Data%20Interpretation%20of%20LinkedIn%20Top%2010%20Skills%20of%202016.pdf)**
 
