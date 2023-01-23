@@ -18,7 +18,11 @@ Learn how people use data to answer questions, and find your own insights from a
 
 
 #### Project 1: Interpret a Data Visualization
->In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard. For more details, check the **[Project 1 Instruction.](https://github.com/Hishamdmacaraya/NanoDegree-Business-Analytics/new/main/Project-1-Data-Visualization-Interpretation)**
+In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
+
+
+#### Project Description
+A large part of working with data is being able to interpret data visualizations and explain your insights to others. To give you some practice with this, we’ve selected a few Tableau dashboards for you to explore. The links are below, under "Choose from these Dashboards." Choose one of these dashboards, whichever one interests you the most, and find three insights in the visualizations. For each insight, provide a static image that shares what you found. Write a short report explaining each observation and how you found the information to reach your conclusion from the dashboard. Altogether (including images), your report should be 1-2 pages.
 
 
 #### Project 1 Submission:
@@ -40,8 +44,11 @@ Learn how people use data to answer questions, and find your own insights from a
 Learn how to use statistics and visuals to find and communicate insights. Develop Excel skills to manipulate, analyze, and visualize data in a spreadsheet. Build Excel models to analyze possible business outcomes.
 
 
+#### Project Description
+
+
 #### Project 2: Interpret a Data Visualization
->In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset. **[Project 2 Instruction.]()**
+In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset. **[Project 2 Instruction.]()**
 
 
 #### Project 2 Submission:
