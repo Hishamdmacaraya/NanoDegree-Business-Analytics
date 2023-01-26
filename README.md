@@ -93,16 +93,39 @@ In this project, you will query a digital music store database which holds infor
 ### IV. Data Visualization
 Learn to apply design and visualization principles to create impactful data visualizations, build data dashboards, and tell stories with data.
 
-#### Project 2: Interpret a Data Visualization
+#### Project 4: Interpret a Data Visualization
 >In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.**[Project 2 Instruction.]()**
 
-#### Project 2 Submission:
+#### Project 4 Submission:
 
-![link]()
+# Tableau Public Profile Link:
+**Hisham D Macaraya at https://public.tableau.com/app/profile/hisham.d.macaraya**
+
+## Project 4 Visualizations and Dasboards:
+
+### Insight 1: [US Cities with Most Active YouTube Users (2006-2018)](https://public.tableau.com/shared/D3T8RCYST?:display_count=n&:origin=viz_share_link)
+
+![Tableau 4](https://user-images.githubusercontent.com/118230471/214647865-2b461473-6550-47e6-be44-b54bca9e1caf.png)
+
+
+### Insight 2: [Engagement Rate of YouTube's Most Viewed Channels (as of 2018)](https://public.tableau.com/app/profile/hisham.d.macaraya/viz/EngagementRateofYouTubesMostViewedChannelsasof2018/Sheet5)
+
+![Tableau 2](https://user-images.githubusercontent.com/118230471/214648427-ea4e3f73-bd0c-4e53-9d9f-83bb0b08fce9.png)
+
+
+### Insight 3: [How are likes and dislikes affecting the views of the videos on YouTube?](https://public.tableau.com/app/profile/hisham.d.macaraya/viz/LikesandDislikesvsViewsonYouTubedatafrom2018/LikesDislikesvsViews)
+
+![Tableau 3](https://user-images.githubusercontent.com/118230471/214649175-53cf6fee-5b99-40af-8951-f7159459b7f5.png)
+
+
+### Insight 4: [States Has The Most Viral Videos (2018)](https://public.tableau.com/app/profile/hisham.d.macaraya/viz/StatesHasTheMostViralVideos2018/Dashboard1)
+
+![Tableau 1](https://user-images.githubusercontent.com/118230471/214650335-f66d4e8e-bfc5-4731-945c-3d2f724d0959.png)
+
 
 >**[]()**
+>**[Data Source](https://www.kaggle.com/datasnaek/youtube-new/data)**
 
->**[Data Source]()**
 
 
 #### Project Reviwer's Comment:
