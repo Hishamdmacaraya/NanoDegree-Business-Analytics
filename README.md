@@ -104,6 +104,7 @@ Learn to apply design and visualization principles to create impactful data visu
 ## Project 4 Visualizations and Dasboards:
 
 ### Insight 1: [US Cities with Most Active YouTube Users (2006-2018)](https://public.tableau.com/shared/D3T8RCYST?:display_count=n&:origin=viz_share_link)
+**[Insight's Explaination in Slide 2](Project-4-Tableau-Dashboards-and-Visualizations/Project-4-Tableau-Visualization-and-Insights.pdf)**
 
 ![Tableau 4](https://user-images.githubusercontent.com/118230471/214647865-2b461473-6550-47e6-be44-b54bca9e1caf.png)
 
@@ -123,8 +124,8 @@ Learn to apply design and visualization principles to create impactful data visu
 ![Tableau 1](https://user-images.githubusercontent.com/118230471/214650335-f66d4e8e-bfc5-4731-945c-3d2f724d0959.png)
 
 
->**[]()**
->**[Data Source](https://www.kaggle.com/datasnaek/youtube-new/data)**
+
+**[Data Source](https://www.kaggle.com/datasnaek/youtube-new/data)**
 
 
 
