@@ -35,7 +35,7 @@ A large part of working with data is being able to interpret data visualizations
 
 
 #### Project Reviwer's Comment:
->"Congratulations, You did great work by creating a presentation that demonstrates three different insights from LinkedIn top skills 2016 dashboard, in addition to adding clear and concise conclusions based on your observations from the data. Gaining the knowledge to make conclusions from a data visualization is a very important skill, you need to obtain to build your data analytical skills."
+>*"Congratulations, You did great work by creating a presentation that demonstrates three different insights from LinkedIn top skills 2016 dashboard, in addition to adding clear and concise conclusions based on your observations from the data. Gaining the knowledge to make conclusions from a data visualization is a very important skill, you need to obtain to build your data analytical skills."*
 
 
 
@@ -45,22 +45,25 @@ Learn how to use statistics and visuals to find and communicate insights. Develo
 
 
 #### Project Description
-**[Click here for Rubic.]()**
+**[Click here for Rubic.](https://review.udacity.com/#!/rubrics/3342/view)**
 
 #### Project 2: Interpret a Data Visualization
 In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset. 
 
 #### Project 2 Submission:
 
-![link]()
+![Screenshot_20230127_083916](https://user-images.githubusercontent.com/118230471/215237929-4f09aff6-2818-49c7-a7ed-f70341e2d32f.png)
 
->**[]()**
 
->**[Data Source]()**
+**[Restaurant-Industry-Insight-2015-2016](Project-2-Analyze-NYSE-Data/Project-2-Restaurant-Industry-Insight-2015-2016.pdf)**
+
+**[P&L Statement, Interactive Dashboard, and Financial-Model](Project-2-Analyze-NYSE-Data/Project-2.1-P&L-Dashboard-Financial-Model.xlsx)**
+
+**[Data Source](https://www.kaggle.com/datasets/dgawlik/nyse)**
 
 
 #### Project Reviwer's Comment:
-
+>*"Excellent project, you have a good understanding of using the correct formulas and assumptions to create a great financial model where required and creating good slides supported by visualisations with clear descriptions to explain the analysis using the measures of centre and spread to support the claims."*
 
 
 
@@ -68,7 +71,7 @@ In this project, you'll use statistics and spreadsheet programs like Excel to an
 Learn to use Structured Query Language (SQL) to extract and analyze data stored in databases.
 
 
-#### Project 2: Interpret a Data Visualization
+#### Project 3: Interpret a Data Visualization
 In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
 
 
@@ -76,9 +79,9 @@ In this project, you will query a digital music store database which holds infor
 **[Click here for Rubic.]()**
 
 
-#### Project 2 Submission:
+#### Project 3 Submission:
 
-![link]()
+![Screenshot_20230127_083752](https://user-images.githubusercontent.com/118230471/215237985-7fe8b1e1-d96d-4cd9-a302-9a12ad2ffe4d.png)
 
 >**[]()**
 
